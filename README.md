@@ -1,6 +1,5 @@
-# 白髪だけ抜いて（無料版）
+# 白髪だけ抜いて
 
-白髪だけを抜く、小さなブラウザゲームの無料版（ステージ1〜3）です。
-全ステージ版は BOOTH で販売しています。
+白髪だけを抜く、小さなブラウザゲームです（全ステージ・日本語版）。
 
-Play: https://annkochan.github.io/shiraga-dake-nuite/
+Play: https://micchigg.github.io/shiraga-dake-nuite/
